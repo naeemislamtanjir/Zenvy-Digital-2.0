@@ -214,7 +214,7 @@ const team = [
   [
     "Naeem Islam Tanjir",
     "Founder & CEO",
-    "/image/Naeem.jpg.jpeg"
+    "/Naeem.jpg.jpeg"
   ],
 
   [
